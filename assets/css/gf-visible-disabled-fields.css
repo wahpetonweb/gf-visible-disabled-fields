@@ -1,0 +1,10 @@
+.gf-disabled-note {
+    font-size: 12px!important;
+    background:rgba(52,52,52,0.8)!important;
+    color: #eee!important;
+    text-shadow:1px 1px 1px rgba(0,0,0,0.4)!important;
+    margin:0!important;
+    padding:6px!important;
+    font-style: italic!important;
+    border-radius:3px;
+}
