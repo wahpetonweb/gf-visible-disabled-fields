@@ -1,6 +1,6 @@
 === GF Visible Disabled Fields ===
 Contributors: wahpetonweb
-Tags: gravity forms, conditional logic, disable fields, visible fields, visibility, accessibility
+Tags: gravity forms, conditional logic, disable fields, visible fields, visibility
 Requires at least: 6.0
 Tested up to: 6.8
 Requires PHP: 7.4
@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
-Prevents Gravity Forms from hiding fields due to conditional logic if the field has the CSS class `gf-visible-disabled`. Instead, the field remains visible and is disabled.
+Prevents Gravity Forms from hiding fields due to conditional logic if the field has the CSS class 'gf-visible-disabled'.
 
 == Description ==
 
